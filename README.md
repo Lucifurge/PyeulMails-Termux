@@ -11,7 +11,7 @@ This tool allows you to generate temporary email addresses and check for new mes
 ### Step 1: Clone the Repository
 Open Termux and clone the repository using the following command:
 ```sh
-git clone https://github.com/Lucifurge/PyeulMails-Termux/tree/main
+git clone https://github.com/Lucifurge/PyeulMails-Termux
 
 cd Pyeul-Mails-Termux-Tool
 
