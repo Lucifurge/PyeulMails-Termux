@@ -13,8 +13,7 @@ Open Termux and clone the repository using the following command:
 ```sh
 git clone https://github.com/Lucifurge/PyeulMails-Termux
 
-cd Pyeul-Mails-Termux-Tool
-
+cd PyeulMails-Termux
 ## Requirements
 
 pip install requests
